@@ -1,2 +1,2 @@
-# class-33.5
-this is debugged angry birds game.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
